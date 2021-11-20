@@ -1,0 +1,38 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "3F80371C-1",
+    "build_number": 1,
+    "build_time": 1636938175812,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "明日方舟自律行动",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "arknight.proxy",
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "scripts": {},
+  "signingConfig": {
+    "alias": "签名1号",
+    "keystore": "/storage/emulated/0/脚本/.keystore/autojspro.jks",
+    "uuid": "6b83c508-826d-4d80-b70c-72b930a3af4b"
+  },
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
